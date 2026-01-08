@@ -15,7 +15,7 @@ This is a basic Hello World program, created to demonstrate the use of Visual St
 * Python 3.13.1 62-bit
 * Git / GitHub
 
-{Describe the programming language that you used}
+<!-- {Describe the programming language that you used} -->
 
 # Useful Websites
 
